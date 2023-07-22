@@ -1,0 +1,33 @@
+# Compiled Python files
+*.pyc
+__pycache__/
+
+# Virtual environment
+venv/
+env/
+*.env
+
+# Development-specific files
+*.sqlite3
+*.pyo
+*.pyd
+*.pyc
+__pycache__
+
+# IDE or editor files
+.vscode/
+.idea/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Logs and cache
+*.log
+logs/
+*.cache/
+
+# Dependency directories (you may need to modify this if you're using other package managers)
+/dist/
+/build/
+/*.egg-info/
